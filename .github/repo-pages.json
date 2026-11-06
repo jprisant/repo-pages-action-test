@@ -1,0 +1,5 @@
+{
+  "title": "Configured title",
+  "exclude": ["data/**"],
+  "includeHidden": true
+}
