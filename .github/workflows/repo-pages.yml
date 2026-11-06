@@ -32,4 +32,4 @@ jobs:
       url: ${{ steps.site.outputs.page_url }}
     steps:
       - id: site
-        uses: prisant-labs/repo-pages@add-github-action
+        uses: prisant-labs/repo-pages@v1
